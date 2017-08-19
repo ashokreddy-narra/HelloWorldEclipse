@@ -11,6 +11,7 @@ public class HelloWorld extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.helloworld);
+		//Testing
 	}
 
 }
